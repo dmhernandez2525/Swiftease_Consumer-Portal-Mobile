@@ -33,8 +33,6 @@ const App: () => React$Node = () => {
           contentInsetAdjustmentBehavior="automatic"
           style={styles.scrollView}>
           <Text style={styles.sectionTitle}>Comfort Order Mobile App</Text>
-          <Text style={styles.sectionTitle}>BIG TTS</Text>
-          <Text style={styles.sectionTitle}>FUCK   YES</Text>
         </ScrollView>
       </SafeAreaView>
     </>
