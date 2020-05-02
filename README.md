@@ -4,7 +4,7 @@
 
 </br>
 
-|<center><h1> Cloning the  Repository </h1></center><li>https://intertech.visualstudio.com/BigGain</li>
+|<center><h1> Cloning the  Repository </h1></center><li>https://dev.azure.com/Comfort-Order/Comfort%20Order/_git/Consumer-Portal-Mobile</li>
 |:-------------------------|
 | <h3> Access Repo and Select **beefBooks** for backend then Clone in VS Code</h3>
 |  
