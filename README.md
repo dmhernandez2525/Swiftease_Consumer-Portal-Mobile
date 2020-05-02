@@ -1,6 +1,6 @@
 |<center><h1> Getting Started </h1></center>
 |:-------------------------|
-|<ul>**Installations:**<li>Open the terminal and run the following commands:</li><ul><li>Install **Brew**: `sudo chown -R $(whoami):admin /usr/local/* && sudo chmod -R g+rwx /usr/local/*`</li><li>Install **Visual Studio Code**: `brew cask install visual-studio-code` (or preferred IDE)</li><li>Install **Git**: `brew install git`</li><li>Install **Yarn**: `brew install yarn`</li></ul></ul><ul>**Credentials:**<li>Obtain access / credentials from workspace owner (currently Tom Ginn for Azure DevOps)</li>
+|<ul>**Installations:**<li>Open the terminal and run the following commands:</li><ul><li>Install **Brew**: `sudo chown -R $(whoami):admin /usr/local/* && sudo chmod -R g+rwx /usr/local/*`</li><li>Install **Visual Studio Code**: `brew cask install visual-studio-code` (or preferred IDE)</li><li>Install **Git**: `brew install git`</li><li>Install **npm**: `brew install node`</li></ul></ul><ul>**Credentials:**<li>Obtain access / credentials from workspace owner (currently Tom Ginn for Azure DevOps)</li>
 
 </br>
 
